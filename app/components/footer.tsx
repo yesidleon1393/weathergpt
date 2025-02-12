@@ -40,19 +40,7 @@ export function Footer({ children }: React.PropsWithChildren<{}>) {
         </svg>
       </a>
 
-      <div className="details">
-        <p>
-          Built with{" "}
-          <a target="_blank" href="https://nextjs.org" rel="noreferrer">
-            Next.js
-          </a>{" "}
-          on{" "}
-          <a target="_blank" href="https://vercel.com" rel="noreferrer">
-            Vercel
-          </a>
-        </p>
-        {children}
-      </div>
+      
 
       <a
         target="_blank"
