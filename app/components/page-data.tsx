@@ -6,14 +6,7 @@ export function PageData({ data }: { data: any }) {
   return (
     <>
       <main>
-        <a
-          target="_blank"
-          href="https://chatg.pt/weather"
-          rel="noreferrer"
-          className="pill"
-        >
-          Deploy your own to Vercel
-        </a>
+        
         <h1>WeatherGPT</h1>
         <p className="description">
           ChatGPT Plugin to get the weather of any given location
@@ -39,11 +32,11 @@ export function PageData({ data }: { data: any }) {
         <p>
           Generated at {date} by{" "}
           <a
-            href="https://vercel.com/docs/concepts/functions/edge-functions"
+            href="https://synergycode.tech"
             target="_blank"
             rel="noreferrer"
           >
-            Vercel Edge Runtime
+            SynergyCode.tech
           </a>
         </p>
       </Footer>
