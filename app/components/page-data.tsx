@@ -9,7 +9,7 @@ export function PageData({ data }: { data: any }) {
         
         <h1>SynergyCode</h1>
         <p className="description">
-          ChatGPT Plugin to get the weather of any given location by SynergyCode
+          This is a ChatGPT Plugin to get the weather of any given location by SynergyCode Thanks for watching.
         </p>
         <Illustration />
         <div className="meta">
