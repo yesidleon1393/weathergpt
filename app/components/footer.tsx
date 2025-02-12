@@ -1,15 +1,7 @@
 export function Footer({ children }: React.PropsWithChildren<{}>) {
   return (
     <footer>
-      <a
-        target="_blank"
-        href="https://synergycode.tech"
-        aria-label="SynergyCode"
-        rel="noreferrer"
-        className="vercel"
-      >
-        
-      </a>
+      
 
       
 
