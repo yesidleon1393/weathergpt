@@ -7,9 +7,9 @@ export function PageData({ data }: { data: any }) {
     <>
       <main>
         
-        <h1>WeatherGPT</h1>
+        <h1>SynergyClimaGPT</h1>
         <p className="description">
-          ChatGPT Plugin to get the weather of any given location
+          ChatGPT Plugin to get the weather of any given location by SynergyCode
         </p>
         <Illustration />
         <div className="meta">
